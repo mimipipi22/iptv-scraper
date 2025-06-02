@@ -14,6 +14,8 @@
 - ```https://iptv-scraper-re.vercel.app/streameast```
 - ```https://iptv-scraper-re.vercel.app/fstv```
   - ```/fstv?timezone=pt  |  ["pt", "mt", "et", "gmt", "cet", "pht"]```
+- ```https://iptv-scraper-re.vercel.app/tims```
+  - ```/tims?timezone=pt  |  ["pt", "mt", "et", "gmt", "cet", "pht"]```
 
 ⚠ **Note:** Reload the playlist if there is an error or if the playlist appears empty.
 
